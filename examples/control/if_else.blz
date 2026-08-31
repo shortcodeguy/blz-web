@@ -1,0 +1,14 @@
+var x = 75
+
+if (x >= 90) {
+    Show("A")
+}
+else if (x >= 80) {
+    Show("B")
+}
+else if (x >= 70) {
+    Show("C")
+}
+else {
+    Show("D")
+}
