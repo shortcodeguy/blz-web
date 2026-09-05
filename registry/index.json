@@ -9,6 +9,9 @@
     },
     "testing-do-not-install": {
       "latest": "1.0.0"
+    },
+    "blazegame": {
+      "latest": "1.0.0"
     }
   }
 }
