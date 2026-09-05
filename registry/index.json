@@ -12,6 +12,9 @@
     },
     "blazegame": {
       "latest": "1.0.0"
+    },
+    "blazegam3": {
+      "latest": "1.1.0"
     }
   }
 }
