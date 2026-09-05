@@ -6,6 +6,9 @@
     },
     "blz-utils-testing": {
       "latest": "1.0.0"
+    },
+    "testing-do-not-install": {
+      "latest": "1.0.0"
     }
   }
 }
