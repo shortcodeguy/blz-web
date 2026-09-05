@@ -1,8 +1,0 @@
-var name = Input("What is your name? ")
-
-if name == "" {
-Show("Hello, anonymous!")
-}
-else {
-Show("Hello, " + name + "!")
-}

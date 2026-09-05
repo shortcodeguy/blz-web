@@ -1,3 +1,0 @@
-// BlazeLang Hello Example
-// Print a friendly first message.
-Show("Hello, BlazeLang!")
