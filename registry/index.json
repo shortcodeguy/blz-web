@@ -3,6 +3,9 @@
   "packages": {
     "blz-utils": {
       "latest": "1.0.0"
+    },
+    "blz-utils-testing": {
+      "latest": "1.0.0"
     }
   }
 }
